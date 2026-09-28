@@ -1,17 +1,17 @@
 # Gurugram-Real-Estate-Analysis
 
 1. Project Title
+ 
  Gurugram Real Estate Analysis
 
 2. Short Description / Purpose
  A Python-based exploratory data analysis project focused on understanding
  property prices, locality-wise pricing, property characteristics, and
  real estate factors affecting prices in Gurugram.
-
  The project includes data cleaning, feature preparation, statistical
  analysis, and visualization using Python.
 
-3. Tech Stack
+4. Tech Stack
  - Python
  - Pandas
  - Matplotlib

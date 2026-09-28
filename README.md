@@ -77,6 +77,3 @@ The project uses a Gurugram real estate dataset containing information related t
 - Are larger homes more expensive per square foot?
 
 
-### Area vs Rate per Square Foot
-
-![Area vs Rate per Square Foot](Screenshots/Area_vs_Rate_per_Sqft.png)
